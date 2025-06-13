@@ -1,5 +1,13 @@
 <h1 align="center">Hey 👋What's Up I'am Josh Abraham Valerio?</h1>
+<h3 align="center">A passionate frontend developer from Philippines</h3>
 
+- 🔭 I’m currently working on **Capstone Project**
+
+- 🌱 I’m currently learning **Laravel, PHP, Databases**
+
+- 💬 Ask me about **what comes first, the chicken or the egg**
+
+- 📫 How to reach me **joshvalerio420@gamail**
 ###
 
 <div align="center">
