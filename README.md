@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋What's Up! I'm Josh Abraham Valerio</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
 
 - 🔭 I’m currently working on **Capstone Project**
 
