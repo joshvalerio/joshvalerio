@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Laravel, PHP, Databases**
 
-- 💬 Ask me about **what comes first, the chicken or the egg**
-
 - 📫 How to reach me **joshvalerio420@gamail**
 ###
 
