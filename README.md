@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋What's Up! I'm Josh Abraham Valerio</h1>
 
-- 🔭 I’m currently working on **Capstone Project**
+- 🔭 I’m currently working on **Internship**
 
-- 🌱 I’m currently learning **Laravel, PHP, Databases**
+- 🌱 I’m currently learning **Symfony, PHP, Databases**
 
 - 📫 How to reach me **joshvalerio420@gamail**
 ###
@@ -11,6 +11,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="60" alt="symfony logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="60" alt="codeigniter logo"  />
   <img width="12" />
